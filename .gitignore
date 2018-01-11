@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+.htaccess
+
+# WordPress
+wp-content/uploads
+wp-content/cache
+
+# composer 関連ファイル
+composer.lock
+vendor/
